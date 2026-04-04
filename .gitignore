@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+*.tmp
+
+# Jupyter Notebook checkpoints
+#.ipynb_checkpoints/
+
+# Python cache
+#__pycache__/
+
+# Large data files (optional - if you don't want to upload 50MB+ CSVs)
+#*.csv
